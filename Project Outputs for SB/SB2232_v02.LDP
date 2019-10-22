@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Projects\Lab equipment\Semtech board\SX1231SKB_Hardware\SB2232_v02.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=sb2232_v02-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=sb2232_v02-slotholes.txt|DrillLayers=gtl,gbl
